@@ -8,7 +8,7 @@ This repository tracks the status of publication/use of Loc-I for Disaster Recov
 
 **Dataset** | **Manager** | **Have Data** | **Ontology** | **RDF Dataset** | **Ingested into Data Platform** | **Listed in Catalogue** | **Published Via API**
 --- | --- | --- | --- | --- | --- | --- | ---
-ASGS | David | X | X | ~<br />(old LocI) | | |
+ASGS | David | X | X | X | ~ | | ~
 Power Infrastructure | Tina | X | | ~ | | ~
 Place Names | Tina | X | X | ~<br />(API) | | X
 Facilities | Joe | X | | | | |
