@@ -9,15 +9,15 @@ This repository tracks the status of publication/use of Loc-I for Disaster Recov
 **Dataset** | **Manager** | **Have Data** | **Ontology** | **RDF Dataset** | **Ingested into Data Platform** | **Listed in Catalogue** | **Published Via API** | **Notes**
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 ASGS | David | X | X | X | ~ | ~ | ~ | David to do all
-Power Infrastructure | Tina | X | FSDF | ~ | ~ | ~ | | David to do all
+Power Infrastructure | Tina | X | FSDF + vocabs | ~ | ~ | ~ | | David to do Transmission Lines, Tina to do Power Stations & Power Substations
 Place Names | Tina | X | X | ~ | ~ | ~ | | David to hand new data to Tina for plublication
 Facilities | Tina | X | FSDF | ~ | ~ | ~ | | Tina to do all with help from David/Nick
-Floods | X | FSDF | | | | | | Tina to make a second Flood FC
+Floods | X | FSDF | | | | | | Tina/Joe to make a second Flood FC
+ABS stats | X | FSDF + Vocabs | | | | | | Irina to select observations, Nick & David to make first dataset
 Exposure | | | | | | | | 
 Tropical Cyclones | | | | | | | | Time varying
 Burnt Areas | Joe | X | | | | | | Similar to Floods
 Earthquakes | | | | | | | | ?
-ABS stats | X | FSDF + Vocabs | | | | | | Ensure all stats we want are defined as obs props. Nick & David
 
 
 ## ASGS
