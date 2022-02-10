@@ -6,18 +6,18 @@ This repository tracks the status of publication/use of Loc-I for Disaster Recov
 * ~ - partly
 * (empty) - no
 
-**Dataset** | **Manager** | **Have Data** | **Ontology** | **RDF Dataset** | **Ingested into Data Platform** | **Listed in Catalogue** | **Published Via API** | **Notes**
---- | --- | --- | --- | --- | --- | --- | --- | ---
-ASGS | David | X | X | X | ~ | ~ | ~ | David to do all
-Power Infrastructure | Tina | X | FSDF + vocabs | ~ | ~ | ~ | | David to do Transmission Lines, Tina to do Power Stations & Power Substations
-Place Names | Tina | X | X | ~ | ~ | ~ | | David to hand new data to Tina for plublication
-Facilities | Tina | X | FSDF | ~ | ~ | ~ | | Tina to do all with help from David/Nick
-Floods | X | FSDF | | | | | | Tina/Joe to make a second Flood FC
-ABS stats | X | FSDF + Vocabs | | | | | | Irina to select observations, Nick & David to make first dataset
-Exposure | | | | | | | | 
-Tropical Cyclones | | | | | | | | Time varying
-Burnt Areas | Joe | X | | | | | | Similar to Floods
-Earthquakes | | | | | | | | ?
+**Dataset** | **Manager** | **Have Data** | **Ontology** | **Run ETL on GA infra** | **Run API + triplestore on GA infra** | **End to end testing of ETL update flowing through to API** | **Notes** 
+--- | --- | --- | --- | --- | --- | --- | --- 
+ASGS | David | X | X | | | | 
+Power Infrastructure | Tina | X | FSDF + vocabs | | | | 
+Place Names | Tina | X | X | | | | 
+Facilities | Tina | X | FSDF | | | | 
+Floods | X | FSDF | | | | | 
+ABS stats | X | FSDF + Vocabs | | | | | Out of Scope
+Exposure | | | | | | | Out of Scope
+Tropical Cyclones | | | | | | | Out of Scope
+Burnt Areas | Joe | X | | | | | Out of Scope
+Earthquakes | | | | | | | Out of Scope
 
 
 ## ASGS
